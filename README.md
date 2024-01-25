@@ -1,7 +1,7 @@
 # Ender3-V2-Z-Belt
  A Voron inspired Z belt conversion for the Ender 3 V2
 
- 
+ ![Screenshot (131)](https://github.com/Driftrotor/Ender3-V2-Z-Belt/assets/94327757/8125a61e-1f2d-49a0-90e4-a193535aad3b)
 
 This is my own take on a Z axis Belt Mod for the Ender 3 / V2 / Pro.
 
